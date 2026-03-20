@@ -1,0 +1,4 @@
+Importanta Programarii in Python
+Python este unul dintre cele mai populare limbaje de programare din lume datorita sintaxei sale simple si clare. Este utilizat pe scara larga in stiinta datelor, inteligenta artificiala si dezvoltare web.
+Invatarea acestui limbaj deschide multe oportunitati in cariera oricarui pasionat de tehnologie. Comunitatea mare de dezvoltatori ofera suport si nenumarate librarii utile.
+Acest fisier text va fi convertit in format HTML de catre scriptul tau, transformand prima linie intr-un titlu H1 si restul in paragrafe P.
